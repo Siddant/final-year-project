@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">FitnessApplication</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_view_">View_Activity</string>
+    <string name="zero">0</string>
+    <string name="double_zero">0.0</string>
+    <string name="title_activity_menu">menu</string>
+    <string name="title_activity_history">history</string>
+    <string name="title_activity_settings">settings</string>
+    <string name="title_activity_show_data">showData</string>
+    <string name="title_activity_display_records">display_records</string>
+
+
+    <string-array name="option">
+        <item>10 second</item>
+        <item>30 second</item>
+        <item>1 minute</item>
+    </string-array>
+
+    <string-array name="revive">
+        <item>Vibration</item>
+        <item>Beep</item>
+        <item>No feedback</item>
+    </string-array>
+
+    <string-array name="maintain">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>
